@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+
+table{
+    text-align: center;
+    margin-top:20px;
+}
+.movieview{
+    padding: 20px;
+    color:white;
+    background-color: black;
+    font-size: 20px;
+    letter-spacing: 1;
+
+
+}
+
+table tr td{
+    border: solid 2px;
+    width: 200px;
+    padding-left: 40px;
+    padding-right: 40px;
+}

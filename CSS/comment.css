@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+
+.giverating{
+	position:relative;
+}
+.giverating  #usercomment{
+	position:absolute;
+	color:white;
+	top:36px;
+	right:0px;
+	background-color:black;
+	height:30px;
+	margin-left:20px;
+    cursor: pointer;
+    border-radius:4px;
+    font-weight:bold;
+    letter-spacing:1;
+}
+
+
+#comment{
+   width: 780px;
+  height: 380px;
+}
+#aboutmovie #comment{
+	margin-bottom:-340px;
+}
+
+#movieimage{
+	height:200px;
+	width:140px;
+	
+	}
+	
+	

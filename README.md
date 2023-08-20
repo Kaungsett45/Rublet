@@ -18,8 +18,8 @@ Objective
       Customer can't engage and debate their movie review  with other customer
       Need to improve Ui/UX design
       
-  What function an you except  from us In Upcoming Update 
-    Reply function and customer can get unlimited comment and one rating per account(Can engage and  debate  with other customer)
+  What function Can you except  from us??  In Upcoming Update ,
+    Reply function and customer can give unlimited comment and one rating per account(Can engage and  debate  with other customer)
     will  add Profile page 
     improve search function
     

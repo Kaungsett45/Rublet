@@ -23,4 +23,9 @@ Objective
     will  add Profile page 
     improve search function
     
-    
+
+Here is the Rublat ( Moviing Rating Project PDf Link)
+
+https://drive.google.com/file/d/1dnIdoYMl3gNNC0qbwCybsNpztnUqETZy/view?usp=sharing
+
+
